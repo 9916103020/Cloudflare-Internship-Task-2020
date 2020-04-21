@@ -29,7 +29,7 @@ wrangler preview
 
 ## Running on Cloudflare Website
 
-Step 1: Sign Up to website using your email address and confirm your eamail address
+Step 1: Sign Up to website using your email address and confirm your email address
 
 Step 2: Go to Account Home from Menu Bar
 
@@ -56,7 +56,7 @@ It fetches json response from the above url.
 ```bash
 Math.floor(Math.random() * 2);
 ```
-This command is used to perform desired functionality of giving 50% to both the vaiants.
+This command is used to perform desired functionality of giving 50% to both the variants.
 ## 3. HTML Rewriter Command:
 ```bash
 new HTMLRewriter().on('a#url', new Request())
