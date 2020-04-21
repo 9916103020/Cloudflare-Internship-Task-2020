@@ -1,0 +1,6 @@
+name = "cloudflare-divyansh-internship-work"
+type = "javascript"
+account_id = "ee81eead74c7ce27196f742f57584be3"
+workers_dev = true
+route = ""
+zone_id = ""
