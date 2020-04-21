@@ -9,7 +9,7 @@ Deployed Link: https://cloudflare-divyansh-internship-work.divyanshsrivastava.wo
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/9916103020/SandTex.git
+git clone https://github.com/9916103020/Cloudflare-Internship-Task-2020.git
 ```
 
 Install the wrangler:
